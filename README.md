@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"     width="1000" height="300"/>
+<img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif"     width="350" height="200"/>
 </div>
 
 <h1 align="center">Hello🙋🏻, I'm Ayush Silarpuria</h1>
