@@ -1,10 +1,10 @@
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif"     width="330" height="200"/>
+<img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif"     width="350" height="230"/>
 </div>
 
 <h1 align="center">Hello🙋🏻, I'm Ayush Silarpuria</h1>
-<h3 align="center">A Python Developer 
+<h3 align="center">A Software Developer 
 
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" height="25px" style="width: 4%; display: inline-block;" data-target="animated-image.originalImage"> 
 from India.</h3>
