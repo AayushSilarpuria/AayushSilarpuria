@@ -56,7 +56,7 @@ from India.</h3>
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 -->
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aayushsilarpuria&show_icons=true&locale=en&layout=compact&theme=tokyo&;title_color=ff3068" alt="aayushsilarpuria" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aayushsilarpuria&show_icons=true&locale=en&layout=compact&hide=&langs_count=10&theme=tokyo&;title_color=ff3068" alt="aayushsilarpuria" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayushsilarpuria&show_icons=true&locale=en&theme=tokyo&;title_color=ff3068" alt="aayushsilarpuria" /></p>
 
