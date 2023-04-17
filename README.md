@@ -1,8 +1,9 @@
-
+<!-- Header Banner -->
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif"     width="350" height="230"/>
 </div>
 
+<!-- Introduction -->
 <h1 align="center">Hello🙋🏻, I'm Ayush Silarpuria</h1>
 <h3 align="center">A Software Developer 
 
@@ -21,12 +22,14 @@ from India.</h3>
 
 - 📫 You can reach me **ayushsilarpuria007@gmail.com**
 
+<!-- Social Media  -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-silarpuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AayushSilarpuria" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ayush_silarpuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_silarpuria" height="30" width="40" /></a>
 </p>
 
+<!-- Languages & Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -46,7 +49,8 @@ from India.</h3>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></p>
-<!--
+
+ <!--
 <p align="left">  </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
@@ -56,6 +60,7 @@ from India.</h3>
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 -->
 
+ <!-- Most Used Languages -->
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aayushsilarpuria&show_icons=true&locale=en&layout=compact&hide=&langs_count=10&theme=tokyo&;title_color=ff3068" alt="aayushsilarpuria" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayushsilarpuria&show_icons=true&locale=en&theme=tokyo&;title_color=ff3068" alt="aayushsilarpuria" /></p>
