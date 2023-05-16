@@ -60,26 +60,30 @@ from India.</h3>
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 -->
 
- <!-- Most Used Languages Graph -->
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aayushsilarpuria&show_icons=true&locale=en&layout=compact&hide=&langs_count=10&theme=ambient-gradient&;title_color=ff3068" alt="aayushsilarpuria" /></p>
+ <!-- Most Used Languages  -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aayush Silarpuria Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aayushsilarpuria&langs_count=8&layout=compact&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" height="160px"/></a>
+ <!-- &hide=Jupyter%20Notebook,Roff -->
 
+ 
  <!-- Overall Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayushsilarpuria&show_icons=true&locale=en&theme=ambient-gradient&;title_color=ff3068" alt="aayushsilarpuria" /></p>
 
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aayush Silarpuria Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aayushsilarpuria&show_icons=true&include_all_commits=true&count_private=true&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" height="192px"/></a>
  
 <!-- Streak Count  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsilarpuria&theme=ambient-gradient&;title_color=ff3068" alt="aayushsilarpuria" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsilarpuria&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" alt="aayushsilarpuria" /></p>
 
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aayush Silarpuria Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aayushsilarpuria&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+ <!-- Contribution Graph  -->
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aayush Silarpuria Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aayushsilarpuria&theme=sunset-gradient&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
- 
- 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aayush Silarpuria Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aayushsilarpuria&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+ <!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=ambient-gradient&background=30%2C0ff1ce%2C904e95)](https://git.io/streak-stats)
+ -->
  
 <!-- 
  ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=aayushsilarpuria&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 -->
+ 
 <!--
  ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=aayushsilarpuria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 -->
