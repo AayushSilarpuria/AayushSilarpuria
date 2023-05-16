@@ -70,11 +70,15 @@ from India.</h3>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aayush Silarpuria Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aayushsilarpuria&show_icons=true&include_all_commits=true&count_private=true&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" height="192px"/></a>
  
 <!-- Streak Count  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsilarpuria&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" alt="aayushsilarpuria" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsilarpuria&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" alt="aayushsilarpuria" height="192px" /></p>
 
+
+<!--  <p><img align="center" src="https://streak-stats.demolab.com/?user=aayushsilarpuria&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" alt="aayushsilarpuria" /></p>
+ -->
 
  <!-- Contribution Graph  -->
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aayush Silarpuria Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aayushsilarpuria&theme=sunset-gradient&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <img alt="Aayush Silarpuria Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aayushsilarpuria&theme=sunset-gradient&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&line=0ff1ce&point=8c5296&hide_border=true" />
+<!--  line=F85D7F -->
  
  <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=ambient-gradient&background=30%2C0ff1ce%2C904e95)](https://git.io/streak-stats)
