@@ -39,10 +39,6 @@ from India.</h3>
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
- <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -50,6 +46,10 @@ from India.</h3>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></p>
 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  
  <!--
 <p align="left">  </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -63,7 +63,23 @@ from India.</h3>
  <!-- Most Used Languages Graph -->
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aayushsilarpuria&show_icons=true&locale=en&layout=compact&hide=&langs_count=10&theme=ambient-gradient&;title_color=ff3068" alt="aayushsilarpuria" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayushsilarpuria&show_icons=true&locale=en&theme=sunset-gradient&;title_color=ff3068" alt="aayushsilarpuria" /></p>
+ <!-- Overall Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayushsilarpuria&show_icons=true&locale=en&theme=ambient-gradient&;title_color=ff3068" alt="aayushsilarpuria" /></p>
 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aayush Silarpuria Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aayushsilarpuria&show_icons=true&include_all_commits=true&count_private=true&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" height="192px"/></a>
+ 
 <!-- Streak Count  -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsilarpuria&theme=ambient-gradient&;title_color=ff3068" alt="aayushsilarpuria" /></p>
+
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aayush Silarpuria Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aayushsilarpuria&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ 
+ 
+ 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aayush Silarpuria Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aayushsilarpuria&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+ 
+<!-- 
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=aayushsilarpuria&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
+-->
+<!--
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=aayushsilarpuria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+-->
