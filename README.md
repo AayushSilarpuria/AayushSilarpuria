@@ -61,9 +61,9 @@ from India.</h3>
 -->
 
  <!-- Most Used Languages Graph -->
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aayushsilarpuria&show_icons=true&locale=en&layout=compact&hide=&langs_count=10&theme=tokyo&;title_color=ff3068" alt="aayushsilarpuria" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aayushsilarpuria&show_icons=true&locale=en&layout=compact&hide=&langs_count=10&theme=ambient-gradient&;title_color=ff3068" alt="aayushsilarpuria" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayushsilarpuria&show_icons=true&locale=en&theme=tokyo&;title_color=ff3068" alt="aayushsilarpuria" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayushsilarpuria&show_icons=true&locale=en&theme=sunset-gradient&;title_color=ff3068" alt="aayushsilarpuria" /></p>
 
 <!-- Streak Count  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsilarpuria&theme=tokyo&;title_color=ff3068" alt="aayushsilarpuria" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsilarpuria&theme=ambient-gradient&;title_color=ff3068" alt="aayushsilarpuria" /></p>
