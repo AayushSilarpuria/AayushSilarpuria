@@ -61,13 +61,13 @@ from India.</h3>
 -->
 
  <!-- Most Used Languages  -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aayush Silarpuria Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aayushsilarpuria&langs_count=8&layout=compact&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" height="160px"/></a>
+  <a><img alt="Aayush Silarpuria Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aayushsilarpuria&langs_count=8&layout=compact&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" height="160px"/></a>
  <!-- &hide=Jupyter%20Notebook,Roff -->
 
  
  <!-- Overall Stats -->
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aayush Silarpuria Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aayushsilarpuria&show_icons=true&include_all_commits=true&count_private=true&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" height="192px"/></a>
+ <a ><img alt="Aayush Silarpuria Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aayushsilarpuria&show_icons=true&include_all_commits=true&count_private=true&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" height="192px"/></a>
  
 <!-- Streak Count  -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsilarpuria&theme=ambient-gradient&hide_border=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=F8D866" alt="aayushsilarpuria" height="192px" /></p>
