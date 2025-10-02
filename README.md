@@ -14,9 +14,10 @@ from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushsilarpuria&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsilarpuria" /> </p>
 
-- 🔭 I’m currently new looking for job opportunities as **Software Developer.**
+<!-- - 🔭 I’m currently looking for New job opportunities as **Software Developer.** -->
+- 💻 Expert in **Python & Machine Learning**. 
 
-- 🌱 I’m currently learning **{ AI & ML }**
+- 🌱 I’m currently learning **{ Agentic AI & Generative AI }**.
 
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on **Projects.**
 
